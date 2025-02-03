@@ -4,8 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-info-box',
   standalone: true,
   imports: [],
-  templateUrl: './info-box.component.html',
-  styleUrl: './info-box.component.scss'
+  templateUrl: './info-box.component.html'
 })
 export class InfoBoxComponent {
 
